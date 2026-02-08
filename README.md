@@ -1,0 +1,106 @@
+# 100 Python Exercises — Checklist
+
+This repository contains 100 Python exercises (and mini-projects) grouped by topic. Use this checklist to track progress: mark items complete as you solve them.
+
+Checklist (01–100)
+
+- [X] 01. Declare and Print Variables
+- [X] 02. Swap Two Variables Without a Third Variable
+- [X] 03. Assign Multiple Variables in One Line
+- [X] 04. Check the Type of a Variable
+- [X] 05. Concatenating Strings
+- [X] 06. Convert String to Integer and Vice Versa
+- [X] 07. Convert Float to Integer and Vice Versa
+- [X] 08. Convert a Boolean to an Integer
+- [X] 09. Convert List to a String and Back
+- [X] 10. Convert Dictionary Keys and Values to Lists
+- [X] 11. Perform Arithmetic Operations
+- [X] 12. Use Comparison Operators
+- [X] 13. Use Logical Operators
+- [X] 14. Use Assignment Operators
+- [ ] 15. Use Bitwise Operators
+- [ ] 16. Check if a Number is Even or Odd
+- [ ] 17. Find the Largest Number
+- [ ] 18. Check if a Year is a Leap Year
+- [ ] 19. Print Numbers from 1 to N
+- [ ] 20. Print Even Numbers up to N
+- [ ] 21. Sum of First N Natural Numbers
+- [ ] 22. Factorial of a Number
+- [ ] 23. Reverse a Number
+- [ ] 24. Multiplication Table
+- [ ] 25. Count Digits in a Number
+- [ ] 26. Define and Call a Function
+- [ ] 27. Function with Parameters
+- [ ] 28. Function Returning a Value
+- [ ] 29. Function with Default Parameter
+- [ ] 30. Function Using Global Variable
+- [ ] 31. Function Using Local Variable
+- [ ] 32. Recursive Function
+- [ ] 33. Function with Multiple Return Values
+- [ ] 34. Manage a Shopping List
+- [ ] 35. Sort a List of Student Scores
+- [ ] 36. Find the Most Expensive Product
+- [ ] 37. Count Word Frequency in a Sentence
+- [ ] 38. Store Student Grades in a Dictionary
+- [ ] 39. Find the Common Elements in Two Sets
+- [ ] 40. Identify Unique Words in a Text
+- [ ] 41. Create a Menu Using a Dictionary
+- [ ] 42. Track Inventory in a Warehouse
+- [ ] 43. Find the Most Frequent Word in a List
+- [ ] 44. Find the Unique Visitors on a Website
+- [ ] 45. Filter Customers Who Purchased a Specific Product
+- [ ] 46. Find the Missing Student in a Class List
+- [ ] 47. Merge Two Dictionaries
+- [ ] 48. Remove Duplicates from a List
+- [ ] 49. Extract the Domain from an Email
+- [ ] 50. Count the Occurrences of a Word in a Review
+- [ ] 51. Format an Invoice
+- [ ] 52. Reverse Words in a Sentence
+- [ ] 53. Extract Hashtags from a Social Media Post
+- [ ] 54. Validate a Password Strength
+- [ ] 55. Remove Extra Spaces from a String
+- [ ] 56. Convert a String to Title Case
+- [ ] 57. Replace Words in a Text
+- [ ] 58. Read a File and Count Lines
+- [ ] 59. Write a Sales Record to a File
+- [ ] 60. Read a File and Handle Missing File Errors
+- [ ] 61. Handle Division by Zero in a Calculator
+- [ ] 62. Validate User Input as an Integer
+- [ ] 63. Log Errors to a File
+- [ ] 64. Read and Process a CSV File
+- [ ] 65. Automatically Close a File Using a Context Manager
+- [ ] 66. Student Grade Management System (project)
+- [ ] 67. Expense Tracker (project)
+- [ ] 68. Contact Book (project)
+- [ ] 69. Temperature Converter (project)
+- [ ] 70. Number Guessing Game (project)
+- [ ] 71. To-Do List App (project)
+- [ ] 72. Banking System (project)
+- [ ] 73. BMI Calculator (project)
+- [ ] 74. Unit Converter (project)
+- [ ] 75. PDF Merger (project)
+- [ ] 76. IP Location Finder (project)
+- [ ] 77. Basic Maze Generator (project)
+- [ ] 78. File Duplicate Finder (project)
+- [ ] 79. Student Attendance System (project)
+- [ ] 80. Basic Chat Application (project)
+- [ ] 81. Library Management System (project)
+- [ ] 82. Voting System (project)
+- [ ] 83. Resume Formatter (project)
+- [ ] 84. Palindrome Checker (project)
+- [ ] 85. CSV File Analyzer (project)
+- [ ] 86. Password Manager (project)
+- [ ] 87. Random Password Generator (project)
+- [ ] 88. Email Validator (project)
+- [ ] 89. Weather Forecast App (project)
+- [ ] 90. Stock Price Tracker (project)
+- [ ] 91. Text Summarizer (project)
+- [ ] 92. Book Recommendation System (project)
+- [ ] 93. File Encryption & Decryption (project)
+- [ ] 94. Two-Factor Authentication (2FA) Generator (project)
+- [ ] 95. Employee Database System (project)
+- [ ] 96. Chatbot for FAQs (project)
+- [ ] 97. Automated Invoice Generator (project)
+- [ ] 98. Task Reminder with Notifications (project)
+- [ ] 99. URL Shortener (project)
+- [ ] 100. AI-Powered Sentiment Analyzer (project)
