@@ -18,22 +18,22 @@ Checklist (01–100)
 - [X] 12. Use Comparison Operators
 - [X] 13. Use Logical Operators
 - [X] 14. Use Assignment Operators
-- [ ] 15. Use Bitwise Operators
-- [ ] 16. Check if a Number is Even or Odd
-- [ ] 17. Find the Largest Number
-- [ ] 18. Check if a Year is a Leap Year
-- [ ] 19. Print Numbers from 1 to N
-- [ ] 20. Print Even Numbers up to N
-- [ ] 21. Sum of First N Natural Numbers
-- [ ] 22. Factorial of a Number
-- [ ] 23. Reverse a Number
-- [ ] 24. Multiplication Table
-- [ ] 25. Count Digits in a Number
-- [ ] 26. Define and Call a Function
-- [ ] 27. Function with Parameters
-- [ ] 28. Function Returning a Value
-- [ ] 29. Function with Default Parameter
-- [ ] 30. Function Using Global Variable
+- [X] 15. Use Bitwise Operators
+- [X] 16. Check if a Number is Even or Odd
+- [X] 17. Find the Largest Number
+- [X] 18. Check if a Year is a Leap Year
+- [X] 19. Print Numbers from 1 to N
+- [X] 20. Print Even Numbers up to N
+- [X] 21. Sum of First N Natural Numbers
+- [X] 22. Factorial of a Number
+- [X] 23. Reverse a Number
+- [X] 24. Multiplication Table
+- [X] 25. Count Digits in a Number
+- [X] 26. Define and Call a Function
+- [X] 27. Function with Parameters
+- [X] 28. Function Returning a Value
+- [X] 29. Function with Default Parameter
+- [X] 30. Function Using Global Variable
 - [ ] 31. Function Using Local Variable
 - [ ] 32. Recursive Function
 - [ ] 33. Function with Multiple Return Values
