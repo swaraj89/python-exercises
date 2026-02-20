@@ -34,31 +34,31 @@ Checklist (01–100)
 - [X] 28. Function Returning a Value
 - [X] 29. Function with Default Parameter
 - [X] 30. Function Using Global Variable
-- [ ] 31. Function Using Local Variable
-- [ ] 32. Recursive Function
-- [ ] 33. Function with Multiple Return Values
-- [ ] 34. Manage a Shopping List
-- [ ] 35. Sort a List of Student Scores
-- [ ] 36. Find the Most Expensive Product
-- [ ] 37. Count Word Frequency in a Sentence
-- [ ] 38. Store Student Grades in a Dictionary
-- [ ] 39. Find the Common Elements in Two Sets
-- [ ] 40. Identify Unique Words in a Text
-- [ ] 41. Create a Menu Using a Dictionary
-- [ ] 42. Track Inventory in a Warehouse
-- [ ] 43. Find the Most Frequent Word in a List
-- [ ] 44. Find the Unique Visitors on a Website
-- [ ] 45. Filter Customers Who Purchased a Specific Product
-- [ ] 46. Find the Missing Student in a Class List
-- [ ] 47. Merge Two Dictionaries
-- [ ] 48. Remove Duplicates from a List
-- [ ] 49. Extract the Domain from an Email
-- [ ] 50. Count the Occurrences of a Word in a Review
-- [ ] 51. Format an Invoice
-- [ ] 52. Reverse Words in a Sentence
-- [ ] 53. Extract Hashtags from a Social Media Post
-- [ ] 54. Validate a Password Strength
-- [ ] 55. Remove Extra Spaces from a String
+- [X] 31. Function Using Local Variable
+- [X] 32. Recursive Function
+- [X] 33. Function with Multiple Return Values
+- [X] 34. Manage a Shopping List
+- [X] 35. Sort a List of Student Scores
+- [X] 36. Find the Most Expensive Product
+- [X] 37. Count Word Frequency in a Sentence
+- [X] 38. Store Student Grades in a Dictionary
+- [X] 39. Find the Common Elements in Two Sets
+- [X] 40. Identify Unique Words in a Text
+- [X] 41. Create a Menu Using a Dictionary
+- [X] 42. Track Inventory in a Warehouse
+- [X] 43. Find the Most Frequent Word in a List
+- [X] 44. Find the Unique Visitors on a Website
+- [X] 45. Filter Customers Who Purchased a Specific Product
+- [X] 46. Find the Missing Student in a Class List
+- [X] 47. Merge Two Dictionaries
+- [X] 48. Remove Duplicates from a List
+- [X] 49. Extract the Domain from an Email
+- [X] 50. Count the Occurrences of a Word in a Review
+- [X] 51. Format an Invoice
+- [X] 52. Reverse Words in a Sentence
+- [X] 53. Extract Hashtags from a Social Media Post
+- [X] 54. Validate a Password Strength
+- [X] 55. Remove Extra Spaces from a String
 - [ ] 56. Convert a String to Title Case
 - [ ] 57. Replace Words in a Text
 - [ ] 58. Read a File and Count Lines
